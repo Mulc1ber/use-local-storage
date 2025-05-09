@@ -1,7 +1,8 @@
+import { UseLocalStorage } from "./components/UseLocalStorage";
 import "./App.css";
 
 function App() {
-  return <></>;
+  return <UseLocalStorage />;
 }
 
 export default App;
